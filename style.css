@@ -1,0 +1,15 @@
+p{
+    text-align: center;
+    font-weight: 500;
+    color: aliceblue;
+    font-size: 3rem;
+    font-style: italic;
+}
+table{
+    border: 3px solid green;
+    text-align: center;
+}
+td{
+    font-size: 1.1em;
+    font-weight: bold;
+}
